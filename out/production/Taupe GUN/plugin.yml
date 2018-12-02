@@ -1,0 +1,13 @@
+name: taupegun
+version: 1.0
+main: fr.fingarde.topgun.Main
+author: Fingarde
+commands:
+  taupe:
+    description: Select a randomly taupe
+  trl:
+    description: Reload plugin
+  start:
+    description: Reload plugin
+  setkit:
+    description: Reload plugin
